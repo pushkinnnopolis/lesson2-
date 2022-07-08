@@ -1,4 +1,4 @@
-"""def check_weather(temperature):
+def check_weather(temperature):
     if temperature<0:
         return "На улице холодно"
     elif temperature >=0 and temperature< 15:
@@ -11,4 +11,3 @@
         return "Можно сдохнуть от жары"
 
 print(check_weather(40)) # На улице сдохнуть можно от жары
-"""
